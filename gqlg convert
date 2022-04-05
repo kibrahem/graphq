@@ -1,0 +1,1 @@
+gqlg --schemaFilePath schema.graphql --destDirPath ./example/output
